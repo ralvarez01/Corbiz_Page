@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-# Título del Proyecto
+# Page by Corebiz
 
-_Acá va un párrafo que describa lo que es el proyecto_
+Una página de prueba de ecommerce para corebiz.
 
 ## Comenzando 🚀
 
