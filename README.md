@@ -85,4 +85,4 @@ Usamos [SemVer](http://semver.org/) para el versionado. Para todas las versiones
 
 _Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
 
-* **Andrés Villanueva** - *Trabajo Inicial* - [villanuevand](https://github.com/villanuevand)
+* **Raymundo Alvarez Vistrain** - *Trabajo Inicial* -(https://github.com/villanuevand)
