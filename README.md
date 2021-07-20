@@ -60,13 +60,12 @@ _Agrega notas adicionales sobre como hacer deploy_
 
 ## Wiki 📖
 
-Puedes encontrar mucho más de cómo utilizar este proyecto en nuestra [Wiki](https://github.com/tu/proyecto/wiki)
+
 
 ## Versionado 📌
 
-Usamos [SemVer](http://semver.org/) para el versionado. Para todas las versiones disponibles, mira los [tags en este repositorio](https://github.com/tu/proyecto/tags).
 
 ## Autores ✒️
 
 
-* **Raymundo Alvarez Vistrain** - *Trabajo Inicial* -(https://github.com/Page Corebiz)
+* **Raymundo Alvarez Vistrain** - *Trabajo Inicial* -(https://github.com/ralvarez01/Corbiz_Page)
