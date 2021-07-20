@@ -15,7 +15,7 @@ Mira **Deployment** para conocer como desplegar el proyecto.
 
 ### Pre-requisitos 📋
 
-_Tener instalado navegador Chrome,Opera,Firefox,Edge en sue quipo de computo.
+_Tener instalado navegador Chrome,Opera,Firefox,Edge en su equipo de computo.
  
 
 
